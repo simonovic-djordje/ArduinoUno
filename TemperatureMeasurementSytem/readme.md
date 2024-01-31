@@ -24,7 +24,7 @@ This project aims to create a system using the Arduino Uno platform to measure t
 We acknowledge the use of Arduino Uno and temperature sensors in creating this Temperature Measurement System.
 
 ## Documentation
-For detailed documentation and setup instructions, please refer to [https://www.tinkercad.com/things/7Uw78tbbYcH-temperature-measurement-system?sharecode=7r3iZbnOF4f1_Oy6zvzHrFRPHSIPF7S7tYRhbf_xmqk].
+For detailed documentation and setup instructions, please refer to [Link](https://www.tinkercad.com/things/7Uw78tbbYcH-temperature-measurement-system?sharecode=7r3iZbnOF4f1_Oy6zvzHrFRPHSIPF7S7tYRhbf_xmqk).
 
 ## Contribution
 Contributions to enhance or optimize the system are welcome.
