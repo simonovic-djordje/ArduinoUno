@@ -25,7 +25,7 @@ This project aims to implement a system that controls an RC servo motor using th
 We acknowledge the use of Arduino Uno and NeoPixel components in creating this servo motor control system.
 
 ## Documentation
-For detailed documentation and setup instructions, please refer to [https://www.tinkercad.com/things/e7yPBtQtq6i-domaci4].
+For detailed documentation and setup instructions, please refer to [Link](https://www.tinkercad.com/things/e7yPBtQtq6i-domaci4).
 
 ## Contribution
 Contributions to enhance or optimize the system are welcome.
