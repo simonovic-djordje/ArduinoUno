@@ -26,7 +26,7 @@ This project aims to create a system using the Arduino Uno platform to display m
 We acknowledge the use of the Arduino Uno platform in creating this Serial Communication and Morse Code Display System.
 
 ## Documentation
-For detailed documentation and setup instructions, please refer to [https://www.tinkercad.com/things/h3jGQJlprsM-morse-code-display-system?sharecode=KKOwxPHWeAyL_PT2k-ggcwC9YS-F33WRPUe7aWWqNyk].
+For detailed documentation and setup instructions, please refer to [Link](https://www.tinkercad.com/things/h3jGQJlprsM-morse-code-display-system?sharecode=KKOwxPHWeAyL_PT2k-ggcwC9YS-F33WRPUe7aWWqNyk).
 
 ## Contribution
 Contributions to enhance or optimize the system are welcome.
